@@ -1,4 +1,4 @@
-# List Manipulator Algorithum
+# List Manipulator Algorithm
 
 <br>
 
